@@ -2,6 +2,8 @@
 
 ---
 
+<img src="Project_Banner/Data Cleaning.png" alt="Data Cleaning and Relational Modeling" width="100%"/>
+
 ## 1. Project Overview
 
 This project focuses on transforming raw supply chain data into a clean, normalized, SQL-ready relational database suitable for analytical and strategic use. It represents the data preparation and modeling phase of a broader supply chain analytics workflow, ensuring that downstream analyses are built on reliable and well-structured data.
