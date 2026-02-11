@@ -1,7 +1,5 @@
 # Supply-Chain-Data-Cleaning-Relational-Modeling
 
----
-
 <img src="Project_Banner/Data Cleaning.png" alt="Data Cleaning and Relational Modeling" width="100%"/>
 
 ## 1. Project Overview
